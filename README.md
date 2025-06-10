@@ -2,14 +2,6 @@
 # 🦊 Web3 Wallet Dashboard
 
 A simple and responsive Web3 Wallet Dashboard built with **React** and **ethers.js**, allowing users to connect their MetaMask wallet, view their wallet address, and interact with the Ethereum blockchain.
-
----
-
-## 🔗 Live Demo
-
-👉 [View Live App](https://your-live-url.vercel.app)  
-*(Replace with your actual Vercel or Netlify link)*
-
 ---
 
 ## ⚙️ Tech Stack
